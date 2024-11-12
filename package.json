@@ -1,0 +1,19 @@
+{
+  "name": "cloudbase-push",
+  "version": "1.0.0",
+  "description": "call push server",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "nodemon": "^3.1.7"
+  }
+}
